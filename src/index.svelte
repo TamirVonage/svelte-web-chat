@@ -1,4 +1,4 @@
-<svelte:options tag="my-counter" />
+<svelte:options tag="vonage-chat-widget"/>
 
 <script>
 	import '@vonage/vwc-icon-button';
